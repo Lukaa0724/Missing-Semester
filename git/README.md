@@ -1,3 +1,2 @@
-Creating a new branch is quick.
-Creating a new branch is quick and simple.
-Let's test something.
+# 这里有学习git的书籍和我学习git时候的笔记
+目前还没有真正的弄清楚ssh到底是什么，多人合作时候的分支怎么处理等等，这些东西在以后需要时再学我觉得可能会更好。
