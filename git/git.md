@@ -32,3 +32,12 @@ HEAD 指向的版本的就是当前版本，通过上面的指令就可以回到
     git push -u origin master
 
 在第一次关联master分支后，后面只需git push即可同步远程仓库。
+
+# 克隆仓库
+很简单 直接
+
+    git clone (项目地址)
+
+就ok了，非常easy
+
+# 分支管理（）
